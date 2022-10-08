@@ -1,6 +1,6 @@
 ---
-title: Practical Machine Learning Project Report
-author: "by Hongzheng Wang"
+title: Practical Machine Learning Project
+author: "Yashas"
 output:
   html_document:
     fig_height: 9
